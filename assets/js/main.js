@@ -85,9 +85,9 @@ sr.reveal(`.home__data, .home__img,
             .about__data, .about__img,
             .services__content, .menu__content,
             .app__data, .app__img,
-            .contact__data, .contact__button,
+            .contact__data, .container, .contact__button, .footer__social,
             .footer__content`, {
-    interval: 200
+    interval: 100
 })
 
 var swiper = new Swiper(".mySwiper", {
