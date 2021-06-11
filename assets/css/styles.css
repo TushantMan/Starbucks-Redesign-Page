@@ -12,7 +12,7 @@
 }
 
 :root {
-  --header-height: 3rem;
+  --header-height: 3.2rem;
   --first-color: #006241;
   --first-color-alt: #114232;
   --title-color: #2b2b2b;
@@ -280,7 +280,7 @@ img{
 }
 
 .swiper-slide {
-  width: 100px;
+  width: 200px;
 }
 
 .swiper-slide img {
@@ -561,11 +561,6 @@ textarea{
     margin-right: auto;
   }
 
-  .home__img{
-    width: 400px;
-    padding-top: 90px;
-  }
-
   .about__container,
   .app__container{
     column-gap: 1.5rem;
@@ -694,9 +689,9 @@ textarea{
 }
 @media screen and (max-width: 575px) {
   .swiper-slide img {
-    width: 75%;
+    width: 80%;
     padding-top: 0px;
     justify-self: center;
-    padding-left: 80px;
+    padding-left: 85px;
   }
 }
