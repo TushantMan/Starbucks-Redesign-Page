@@ -139,7 +139,7 @@ img{
   gap: 1.5rem;
 }
 
-.l-header{
+.header{
   width: 100%;
   position: fixed;
   top: 0;
@@ -147,7 +147,7 @@ img{
   z-index: var(--z-fixed);
   background-color: var(--body-color);
 }
-.l-header img{
+.header img{
   width: 58%;
   height: 58%;
   padding: 15px 0;
@@ -176,7 +176,7 @@ img{
     border-radius: 0 0 1rem 1rem;
     z-index: var(--z-fixed);
   }
-  .l-header img{
+  .header img{
     width: 40%;
     height: 40%;
   }
@@ -216,7 +216,7 @@ img{
   color: var(--first-color);
 }
 
-.scroll-header{
+.scrolheader{
   box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
 }
 
@@ -675,7 +675,7 @@ textarea{
   }
 }
 @media screen and (max-width: 576px){
-  .l-header img{
+  .header img{
     width: 40%;
     height: 40%;
     padding-top: 20px;
