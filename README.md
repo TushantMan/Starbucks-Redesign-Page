@@ -1,5 +1,5 @@
 # Responsive StarBucks Redesign Website
-## [See Live Preview](https://starbucks-redesigned-demo.netlify.app/)
+## [See Live Preview](https://starbucks-clone.netlify.app/)
 ### Responsive StarBucks Redesign Website
 
 - Starbucks Redesign built using HTML, CSS & JAVASCRIPT.
